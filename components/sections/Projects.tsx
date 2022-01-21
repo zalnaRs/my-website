@@ -31,7 +31,7 @@ const Projects: React.FC = () => {
         <ProjectCard
           title="ControllerAsInput"
           description="Allowing to use a Xbox controller as mouse"
-          link="https://zalnars.github.io/controllerasinput/"
+          link="https://zalnars.github.io/ControllerAsInput/"
         />
       </Grid>
     </section>
