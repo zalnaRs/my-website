@@ -1,6 +1,6 @@
 const Welcome: React.FC = () => {
   return (
-    <div className="flex flex-col lg:flex-row lg:justify-start justify-center h-screen items-center ml-4 gap-2">
+    <div className="flex flex-col lg:flex-row lg:justify-start justify-center h-screen items-center lg:ml-0 ml-4 gap-2">
       <h1 className="sm:text-8xl text-4xl font-bold" data-aos="fade-up">
         Welcome,
       </h1>
