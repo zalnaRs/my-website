@@ -33,6 +33,12 @@ const Projects: React.FC = () => {
           description="Allowing to use a Xbox controller as mouse"
           link="https://zalnars.github.io/ControllerAsInput/"
         />
+
+        <ProjectCard
+          title="LinkShake"
+          description="Shake Multiple Links Together"
+          link="https://linkshake.cf"
+        />
       </Grid>
     </section>
   );
