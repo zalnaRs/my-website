@@ -34,11 +34,11 @@ const Projects: React.FC = () => {
           link="https://zalnars.github.io/ControllerAsInput/"
         />
 
-        <ProjectCard
+        {/*<ProjectCard
           title="LinkShake"
           description="Shake Multiple Links Together"
           link="https://linkshake.cf"
-        />
+        />*/}
       </Grid>
     </section>
   );
